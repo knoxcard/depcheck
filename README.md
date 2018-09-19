@@ -15,6 +15,7 @@ Depcheck is a tool for analyzing the dependencies in a project to see: how each 
 
 ```
 npm install -g depcheck
+yarn add depcheck global
 ```
 
 *Notice:* depcheck needs node.js >= 6.
